@@ -1,1 +1,6 @@
-*.md
+#ignore these files
+test.md
+node_modules/
+
+
+test.md
