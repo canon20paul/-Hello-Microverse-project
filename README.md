@@ -1,17 +1,20 @@
 # -Hello-Microverse-project
-"Hello Microverse" project first project Day2
 
 
 Hello-Microverse-project
-Description the project.
+First Project excuted on Day2 of the program
 
 Built With
-Major languages HTML & CSS
-Frameworks
-Technologies used
-Live Demo (if available)
+HTML & CSS
+using Vscode & Github
 
+Getting Started
+To get a local copy up and running follow these simple example steps.
 
+Setup
+Install
+Usage
+Deployment
 
 Authors
 👤 Paul Malongo
@@ -19,6 +22,20 @@ Authors
 GitHub: @canon20paul
 Twitter: @paulmalongo
 LinkedIn: Paulmalongo
+
+🤝 Contributing
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the issues page.
+
+Show your support
+Give a ⭐️ if you like this project!
+
+Acknowledgments
+Sincerely appreciate the Microverse Team for igniting this journey
+etc
+
+📝 License
 
  License
 This project is MIT licensed.
