@@ -10,11 +10,11 @@ Major languages HTML & CSS
 Frameworks
 Technologies used
 Live Demo (if available)
-Live Demo Link
+
 
 
 Authors
-👤 Author1
+👤 Paul Malongo
 
 GitHub: @canon20paul
 Twitter: @paulmalongo
